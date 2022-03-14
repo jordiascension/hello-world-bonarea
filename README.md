@@ -30,3 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction
 
 -Borrar carpeta .git
+
+-Deploy Angular App to Heroku
+https://medium.com/geekculture/how-to-easily-deploy-your-first-angular-app-on-heroku-65dd546c8181
